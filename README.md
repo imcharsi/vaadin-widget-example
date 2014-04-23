@@ -1,0 +1,1 @@
+vaadin widget example
